@@ -7,9 +7,9 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=900&height=60&lines=🚀+Welcome+to+my+Digital+Universe...;💜+I+craft+code+that+matters;⚡+Turning+ideas+into+reality;🌌+Building+tomorrow%2C+today;🔥+Passion+%2B+Code+%3D+Magic" alt="Typing SVG" />
-</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+Digital+Universe;I+craft+code+that+matters;Turning+ideas+into+reality;Building+tomorrow+today;Passion+%2B+Code+%3D+Magic" />
+
 </div>
 
 <br/>

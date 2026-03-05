@@ -100,35 +100,35 @@ const vighnya777 = {
 
 ---
 
-## 📊 &nbsp; `GitHub Analytics`
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vighnya777&show_icons=true&count_private=true&hide_border=true&title_color=a855f7&icon_color=6e40c9&text_color=c9d1d9&bg_color=0d1117&rank_icon=percentile&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=vighnya777&show_icons=true&count_private=true&hide_border=true&title_color=a855f7&icon_color=6e40c9&text_color=c9d1d9&bg_color=0d1117&rank_icon=percentile&include_all_commits=true" height="180"/>
 
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=vighnya777&hide_border=true&background=0d1117&stroke=6e40c9&ring=a855f7&fire=ff6e27&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&sideNums=a855f7" />
+<img src="https://streak-stats.demolab.com?user=vighnya777&theme=dark&hide_border=true&background=0d1117&ring=a855f7&fire=ff6e27&currStreakLabel=c9d1d9" height="180"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnya777&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=10" height="300px"/>
-</div>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnya777&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=10" height="180"/>
+
+</div>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
 </p>
 
 ---
 
-## 🏆 &nbsp; `Achievements & Trophies`
+## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vighnya777&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-</div>
 
-<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=vighnya777&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
 
 ---
 
@@ -167,40 +167,65 @@ const vighnya777 = {
 
 ---
 
-## 💡 &nbsp; `Skills Proficiency`
+## 💡 Skills
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a2e)
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=1a1a2e)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1a1a2e)
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-4EA94B?style=flat-square&logo=mongodb&logoColor=white&labelColor=1a1a2e)
-![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a2e)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-2CA5E0?style=flat-square&logo=docker&logoColor=white&labelColor=1a1a2e)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-007ACC?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a2e)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=1a1a2e)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=1a1a2e)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a2e)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a2e)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1a1a2e)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1a1a2e)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&labelColor=1a1a2e)
+
+### Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=1a1a2e)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=1a1a2e)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=1a1a2e)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white&labelColor=1a1a2e)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1a2e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1a2e)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=1a1a2e)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a2e)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1a2e)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=1a1a2e)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1a2e)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=1a1a2e)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=1a1a2e)
 
 </div>
 
-<br/>
-
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
 </p>
 
 ---
 
-## 🐍 &nbsp; `Contribution Snake`
+## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vighnya777/vighnya777/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vighnya777/vighnya777/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/vighnya777/vighnya777/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vighnya777/vighnya777/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vighnya777/vighnya777/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/vighnya777/vighnya777/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 

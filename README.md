@@ -1,230 +1,156 @@
 <div align="center">
 
-<!-- ULTRA ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:1a0533,100:2d1b69&height=300&section=header&text=VIGHNYA777&fontSize=90&fontColor=ffffff&fontAlignY=45&desc=⚡%20Elite%20Developer%20%7C%20Digital%20Architect%20%7C%20Code%20Wizard%20⚡&descAlignY=65&descSize=18&animation=twinkling&stroke=6e40c9&strokeWidth=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:050010,70:0a0025,100:120040&height=280&section=header&text=VIGHNYA777&fontSize=100&fontColor=ffffff&fontAlignY=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20Digital%20Architect%20%E2%80%A2%20Code%20Wizard&descAlignY=68&descSize=16&animation=fadeIn&stroke=8b5cf6&strokeWidth=2" />
 
 </div>
 
-<!-- TYPING ANIMATION -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+Digital+Universe;I+craft+code+that+matters;Turning+ideas+into+reality;Building+tomorrow+today;Passion+%2B+Code+%3D+Magic" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=%E2%96%88+Crafting+elegant+solutions+to+complex+problems+%E2%96%88;%E2%96%88+Turning+caffeine+into+clean+architecture+%E2%96%88;%E2%96%88+Systems+that+scale%2C+code+that+lasts+%E2%96%88;%E2%96%88+Building+the+future%2C+one+commit+at+a+time+%E2%96%88" />
 
 </div>
 
 <br/>
 
-<!-- BADGES ROW -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vighnya777&style=for-the-badge&color=blueviolet&label=👁️+PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=vighnya777&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/vighnya777?style=for-the-badge&logo=github&color=6e40c9&label=⭐+FOLLOWERS)](https://github.com/vighnya777?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/vighnya777?style=for-the-badge&logo=github&color=5b21b6&label=FOLLOWERS)](https://github.com/vighnya777?tab=followers)
 &nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/vighnya777?style=for-the-badge&color=ff6e27&logo=github&label=🌟+STARS)
+![GitHub Stars](https://img.shields.io/github/stars/vighnya777?style=for-the-badge&color=4c1d95&logo=github&label=STARS)
 
 </div>
-
-<br/>
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+## ◈ `Identity`
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> &nbsp;`whoami`
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="border-radius:12px; margin-left:20px;"/>
 
-<img align="right" alt="Developer at work" width="360" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="border-radius: 15px;"/>
+```typescript
+interface Developer {
+  alias       : string;
+  location    : string;
+  role        : string;
+  focus       : string[];
+  philosophy  : string;
+}
 
-```javascript
-const vighnya777 = {
-  alias     : "⚡ vighnya777",
-  location  : "🇮🇳 India",
+const vighnya777: Developer = {
+  alias     : "vighnya777",
+  location  : "India 🇮🇳",
   role      : "Full Stack Developer & Digital Creator",
-  
-  currentlyOn: {
-    building   : "Next-gen web applications 🏗️",
-    learning   : "System Design & Cloud Architecture ☁️",
-    exploring  : "AI/ML & Emerging Technologies 🤖",
-    vibing     : "Lo-fi beats + Dark theme + ☕"
-  },
-  
-  lifePhilosophy : "Code. Create. Conquer. Repeat. 🔥",
-  openTo         : ["Collabs 🤝", "Freelance 💼", "Open Source 🌍"],
-  funFact        : "I debug code faster than I debug life 😂"
+
+  focus: [
+    "Next-gen Web Platforms",
+    "AI/ML Integration",
+    "System Design & Cloud",
+    "Open Source Ecosystem"
+  ],
+
+  philosophy: "Write code that your future self won't dread."
 };
 ```
 
 <br clear="right"/>
 
-<br/>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
 ---
 
-## ⚡ &nbsp; `Tech Stack & Arsenal`
+## ◈ `Arsenal`
 
 <div align="center">
 
-### 🧠 Languages I Speak (to machines)
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css,bash&theme=dark&perline=8" />
-</p>
+**Languages**
 
-### 🚀 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux,graphql,flask&theme=dark&perline=8" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css,bash&theme=dark&perline=8" />
 
-### 🛢️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis,aws,gcp,supabase&theme=dark&perline=8" />
-</p>
+**Frameworks & Libraries**
 
-### 🛠️ Dev Tools & Environment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,linux,postman,figma&theme=dark&perline=8" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux,graphql,flask&theme=dark&perline=8" />
 
-</div>
+**Databases & Cloud**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis,aws,gcp,supabase&theme=dark&perline=8" />
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+**Tools & Environment**
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vighnya777&show_icons=true&count_private=true&hide_border=true&title_color=a855f7&icon_color=6e40c9&text_color=c9d1d9&bg_color=0d1117&rank_icon=percentile&include_all_commits=true" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=vighnya777&theme=dark&hide_border=true&background=0d1117&ring=a855f7&fire=ff6e27&currStreakLabel=c9d1d9" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnya777&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=10" height="180"/>
-
-</div>
-
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
-</p>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vighnya777&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,linux,postman,figma&theme=dark&perline=8" />
 
 </div>
 
 ---
 
-## 📈 &nbsp; `Contribution Activity`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vighnya777&bg_color=0d1117&color=a855f7&line=6e40c9&point=ffffff&area_color=1a0533&area=true&hide_border=true&custom_title=vighnya777's%20Contribution%20Graph" width="100%"/>
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
----
-
-## 🌟 &nbsp; `What I'm Building`
+## ◈ `Current Build Status`
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║                   🔭 CURRENT PROJECTS                    ║
-╠══════════════════════════════════════════════════════════╣
-║  🌐  Full Stack Web Platform     [████████░░] 80%        ║
-║  🤖  AI-Powered Tools            [██████░░░░] 60%        ║
-║  📱  Mobile App (React Native)   [████░░░░░░] 45%        ║
-║  🛡️  Open Source Contributions   [██████████] Always!    ║
-╚══════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────┐
+│                     ACTIVE PROJECTS                         │
+├──────────────────────────────────────┬──────────────────────┤
+│  Full Stack Web Platform             │  ████████░░  80%     │
+│  AI-Powered Developer Tools          │  ██████░░░░  60%     │
+│  Mobile App — React Native           │  ████░░░░░░  45%     │
+│  Open Source Contributions           │  ██████████  ∞       │
+└──────────────────────────────────────┴──────────────────────┘
 ```
 
 </div>
 
-<br/>
-
 ---
 
-## 💡 &nbsp; `Skills & Technologies`
+## ◈ `GitHub Analytics`
 
 <div align="center">
 
-### 🧠 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a2e)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=1a1a2e)
+<img src="https://github-readme-stats.vercel.app/api?username=vighnya777&show_icons=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=7c3aed&text_color=c9d1d9&bg_color=09090f&rank_icon=percentile&include_all_commits=true" height="175"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=vighnya777&theme=dark&hide_border=true&background=09090f&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" height="175"/>
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a2e)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a2e)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1a1a2e)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1a1a2e)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&labelColor=1a1a2e)
+<br/>
 
-### ⚙️ Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=1a1a2e)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=1a1a2e)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=1a1a2e)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white&labelColor=1a1a2e)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1a2e)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1a2e)
-
-### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1a2e)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a2e)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1a2e)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=1a1a2e)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=1a1a2e)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnya777&layout=compact&hide_border=true&bg_color=09090f&title_color=8b5cf6&text_color=c9d1d9&langs_count=10" height="165"/>
 
 </div>
 
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
-</p>
+---
+
+## ◈ `Achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vighnya777&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## ◈ `Contribution Graph`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vighnya777&bg_color=09090f&color=8b5cf6&line=7c3aed&point=ffffff&area_color=1e1b4b&area=true&hide_border=true&custom_title=Contribution+Activity" width="100%"/>
+
+</div>
+
+---
+
+## ◈ `Contribution Snake`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vighnya777/vighnya777/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vighnya777/vighnya777/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/vighnya777/vighnya777/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/vighnya777/vighnya777/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
 ---
 
-## 💬 Dev Quote of the Day
+## ◈ `Dev Quote`
 
 <div align="center">
 
@@ -234,52 +160,44 @@ const vighnya777 = {
 
 ---
 
-## 🌐 Find Me Online
+## ◈ `Find Me`
 
 <div align="center">
 
 <a href="https://github.com/vighnya777">
-<img src="https://img.shields.io/badge/GitHub-vighnya777-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-vighnya777-09090f?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://linkedin.com/in/vighnya777">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://twitter.com/vighnya777">
-<img src="https://img.shields.io/badge/Twitter-@vighnya777-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twitter-@vighnya777-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://instagram.com/vighnya777">
-<img src="https://img.shields.io/badge/Instagram-@vighnya777-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-@vighnya777-e1306c?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-</a>
-
+&nbsp;
 <a href="mailto:vighnya777@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Say+Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
-
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
-</p>
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:2d1b69,50:1a0533,100:000000&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:1e1b4b,100:312e81&height=120&section=footer"/>
 
-### Let's build something legendary together 🚀
+`// Let's build something that matters.`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=If+you+liked+what+you+saw;Drop+a+star+on+my+repos;It+means+a+lot+to+me;See+you+on+the+other+side" />
-
-**Made with 💜 by vighnya777**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0533,100:2d1b69&height=80&section=footer"/>
+**— vighnya777**
 
 </div>

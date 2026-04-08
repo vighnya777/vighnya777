@@ -250,8 +250,8 @@ const vighnya777 = {
 <img src="https://img.shields.io/badge/Twitter-@vighnya777-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/vighnya777">
-<img src="https://img.shields.io/badge/Instagram-@vighnya777-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/vighnya_777">
+<img src="https://img.shields.io/badge/Instagram-@vighnya_777-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="#">

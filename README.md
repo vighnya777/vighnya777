@@ -37,23 +37,23 @@
 
 <img align="right" alt="Developer at work" width="360" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="border-radius: 15px;"/>
 
-```javascript
-const vighnya777 = {
-  alias     : "⚡ vighnya777",
-  location  : "🇮🇳 India",
-  role      : "Full Stack Developer & Digital Creator",
-  
-  currentlyOn: {
-    building   : "Next-gen web applications 🏗️",
-    learning   : "System Design & Cloud Architecture ☁️",
-    exploring  : "AI/ML & Emerging Technologies 🤖",
-    vibing     : "Lo-fi beats + Dark theme + ☕"
-  },
-  
-  lifePhilosophy : "Code. Create. Conquer. Repeat. 🔥",
-  openTo         : ["Collabs 🤝", "Freelance 💼", "Open Source 🌍"],
-  funFact        : "I debug code faster than I debug life 😂"
-};
+```python
+vighnya777 = {
+    "alias": "⚡ vighnya777",
+    "location": "🇮🇳 India",
+    "role": "Full Stack Developer & Digital Creator",
+    
+    "currentlyOn": {
+        "building": "Next-gen web applications 🏗️",
+        "learning": "System Design & Cloud Architecture ☁️",
+        "exploring": "AI/ML & Emerging Technologies 🤖",
+        "vibing": "Lo-fi beats + Dark theme + ☕"
+    },
+    
+    "lifePhilosophy": "Code. Create. Conquer. Repeat. 🔥",
+    "openTo": ["Collabs 🤝", "Freelance 💼", "Open Source 🌍"],
+    "funFact": "I debug code faster than I debug life 😂"
+}
 ```
 
 <br clear="right"/>

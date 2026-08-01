@@ -21,7 +21,7 @@
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/vighnya777?style=for-the-badge&logo=github&color=6e40c9&label=⭐+FOLLOWERS)](https://github.com/vighnya777?tab=followers)
 &nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/vighnya777?style=for-the-badge&color=ff6e27&logo=github&label=🌟+STARS)
+[![Profile Repository Stars](https://img.shields.io/github/stars/vighnya777/vighnya777?style=for-the-badge&color=ff6e27&logo=github&label=❤️+PROFILE+STARS)](https://github.com/vighnya777/vighnya777/stargazers)
 
 </div>
 

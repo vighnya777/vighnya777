@@ -1,0 +1,33 @@
+name: Generate Contribution Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: spideyofficial777
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "🐍 Update contribution snake"
+          commit_name: "spideyofficial777"
+          commit_email: "173601904+Spideyofficial777@users.noreply.github.com"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -16,7 +16,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: spideyofficial777
+          github_user_name: vighnya777
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -27,7 +27,7 @@ jobs:
           target_branch: output
           build_dir: dist
           commit_message: "🐍 Update contribution snake"
-          commit_name: "spideyofficial777"
-          commit_email: "173601904+Spideyofficial777@users.noreply.github.com"
+          commit_name: "vighnya777"
+          commit_email: "109672496+vighnya777@users.noreply.github.com"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
